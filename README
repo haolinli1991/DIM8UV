@@ -1,0 +1,4 @@
+!Caution!
+Do not try to open DIM8UV.m with Mathematica as it contains a large mount of symbolic data and can cause the crash of your computer system.
+
+Please open the notebook file GetUVsDim8.nb and see examples there.
